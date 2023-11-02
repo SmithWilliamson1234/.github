@@ -1,2 +1,4 @@
 ## asura.kuo
-Commissioned for research papers, investigation reports and Case studies.
+Not an enterprise
+Projects (repos )made by Alessio Liu.
+Not licensed for sharing them as your own but have fun!
