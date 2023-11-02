@@ -1,2 +1,2 @@
-# .github
-Repo containing all Case studies, Investigation Reports, Research Papers created by me. Commissioned.
+# Projects
+Repo containing all finished projects
